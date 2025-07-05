@@ -21,6 +21,7 @@ This is an example of reuse of the [DHwiki Wikibase](https://dhwiki.wikibase.clo
 
 ## References
 
+- https://glam-workbench.net/
 -  Lindemann, D., Candela, G., Pellizzari di San Girolamo, C. C., Olea, I., Varvantakis, C., Schöch, C., Santiago Faria, A., Moitinho de Almeida, V., Assis, T., & Marchetti, A. (2025, junio 18). MediaWiki-based tools and services in Digital Humanities workflows. DARIAH Annual Event 2025 (DARIAH-AE2025), Göttingen, Germany. Zenodo. https://doi.org/10.5281/zenodo.15690771
 -  Mahey, M., Candela, G., Holownia, O., Gabriels, N., & Chambers, S. (2025). GLAM Labs Annual Report 2024 (Final Version). Zenodo. https://doi.org/10.5281/zenodo.15096604
 -  Candela, G. 2025. Browsing Linked Open Data in Cultural Heritage: A Shareable Visual Configuration Approach. J. Comput. Cult. Herit. 18, 1, Article 9 (March 2025), 15 pages. https://doi.org/10.1145/3707647
