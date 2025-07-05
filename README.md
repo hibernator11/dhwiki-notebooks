@@ -15,11 +15,11 @@ This is an example of reuse of the [DHwiki Wikibase](https://dhwiki.wikibase.clo
 - You can edit the cells, and click on play to run and see the changes.
 
 
-### Licence
+## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
 
-### References
+## References
 
 -  Lindemann, D., Candela, G., Pellizzari di San Girolamo, C. C., Olea, I., Varvantakis, C., Schöch, C., Santiago Faria, A., Moitinho de Almeida, V., Assis, T., & Marchetti, A. (2025, junio 18). MediaWiki-based tools and services in Digital Humanities workflows. DARIAH Annual Event 2025 (DARIAH-AE2025), Göttingen, Germany. Zenodo. https://doi.org/10.5281/zenodo.15690771
 -  Mahey, M., Candela, G., Holownia, O., Gabriels, N., & Chambers, S. (2025). GLAM Labs Annual Report 2024 (Final Version). Zenodo. https://doi.org/10.5281/zenodo.15096604
