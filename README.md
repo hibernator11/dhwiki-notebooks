@@ -4,6 +4,9 @@
 
 This is an example of reuse of the [DHwiki Wikibase](https://dhwiki.wikibase.cloud/wiki/Main_Page), hosted on [Wikibase Cloud](https://wikibase.cloud/), includes a Wikibase instance, and is maintained since September 2024 by the [DARIAH-EU WG DHwiki](https://www.dariah.eu/activities/working-groups/dhwiki/), in the framework of the [DARIAH ERIC](https://www.dariah.eu/). 
 
+## Jupyter Notebook examples
+- [Retrieve bibliographical items](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/dhwiki-query-bibliographical-items.ipynb)
+- [Retrieve classes and properties](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/dhwiki-query-classes-properties.ipynb) 
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
