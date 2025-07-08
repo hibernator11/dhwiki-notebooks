@@ -11,7 +11,7 @@ These examples show how to query the repository using SPARQL:
 - [Retrieve classes and properties](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/dhwiki-query-classes-properties.ipynb)
 
 This example shows how to create a new item (**Note that you need to add your user and password, and create the properties**):
-- [Create a new item](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/dhwiki-wpi.ipynb)
+- [Create a new item](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/wikibase-create-item.ipynb)
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
