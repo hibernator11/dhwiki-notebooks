@@ -13,6 +13,10 @@ These examples show how to query the repository using SPARQL:
 This example shows how to create a new item (**Note that you need to add your user and password, and create the properties**):
 - [Create a new item](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/wikibase-create-item.ipynb)
 
+Using wbi_helpers:
+- [Search entities](https://nbviewer.org/github/hibernator11/dhwiki-notebooks/blob/main/notebooks/wikibase-wpi-helpers.ipynb)
+
+
 ## Running the notebooks
 **To execute the notebook in Binder:**
 
